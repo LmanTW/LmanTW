@@ -14,3 +14,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 > * [VBrowser](https://github.com/LmanTW/VBrowser)｜A self-hosting remote browser. **(Basically dead)**
 
 ~~(and many dead projects)~~
+
+# Contact Me
+
+<image src="https://discord-readme-badge.vercel.app/api?id=846951260694904843">

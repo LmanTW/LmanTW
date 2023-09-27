@@ -9,8 +9,4 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 > * [LightScript](https://github.com/LmanTW/LightScript)｜A simple Chinese programing language, base on Javascript.
 > * [Lightbery](https://github.com/LmanTW/Lightbery)｜A Pixiv image manager.
 
-> [!NOTE]
-> ~~(Yeah most of my projects have a "light" inside the name)~~
-
-# links
-> [SoundCoud](https://soundcloud.com/lmusic_tw)
+~~(and many dead projects)~~

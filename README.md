@@ -9,8 +9,8 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 # Active Projects
 
-> * [LightScript](https://github.com/LmanTW/LightScript)｜A simple Chinese programing language, base on Javascript.
-> * [Lightbery](https://github.com/LmanTW/Lightbery)｜A Pixiv image manager.
+> * [LightScript](https://github.com/LmanTW/LightScript)｜A simple Chinese programing language, base on Javascript. (Developing)
+> * [Lightbery](https://github.com/LmanTW/Lightbery)｜A Pixiv image manager. (Finish Developing)
 > * [VBrowser](https://github.com/LmanTW/VBrowser)｜A self-hosting remote browser. **(Basically dead)**
 
 ~~(and many dead projects)~~

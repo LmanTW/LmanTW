@@ -11,7 +11,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 > * [LightScript](https://github.com/LmanTW/LightScript)｜A simple Chinese programing language, base on Javascript. (Developing)
 > * [Lightbery](https://github.com/LmanTW/Lightbery)｜A Pixiv image manager. (Finish Developing)
-> * [VBrowser](https://github.com/LmanTW/VBrowser)｜A self-hosting remote browser. **(Basically dead)**
+> * [LightPanel](https://github.com/LmanTW/LightPanel)｜A Hosting Panel Base On Docker.
 
 ~~(and many dead projects)~~
 

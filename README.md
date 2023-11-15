@@ -7,13 +7,17 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 > [!NOTE]
 > Btw my English is not very good so most of my project's guide is written in Chinese
 
+# Langauges / Tools I Know
+
+<image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker">
+
 # Active Projects
 
 > * [LightScript](https://github.com/LmanTW/LightScript)｜A simple Chinese programing language, base on Javascript. (Developing)
 > * [Lightbery](https://github.com/LmanTW/Lightbery)｜A Pixiv image manager. (Finish Developing)
 > * [LightPanel](https://github.com/LmanTW/LightPanel)｜A Hosting Panel Base On Docker.
 
-~~(and many dead projects)~~
+~~(And many dead projects)~~
 
 # Contact Me
 

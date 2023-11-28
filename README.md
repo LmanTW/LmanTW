@@ -11,14 +11,8 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 <image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker">
 
-# Active Projects
+# Recent Activity
 
-> * [LightScript](https://github.com/LmanTW/LightScript)｜A simple Chinese programing language, base on Javascript. (Developing)
-> * [Lightbery](https://github.com/LmanTW/Lightbery)｜A Pixiv image manager. (Finish Developing)
-> * [LightPanel](https://github.com/Light-Panel/LightPanel/tree/main)｜A simple, fast, highly customizable hosting panel. (Developing)
+<!--START_SECTION:activity-->
 
-~~(And many dead projects)~~
-
-# Contact Me
-
-<image src="https://discord-readme-badge.vercel.app/api?id=846951260694904843" height="100px">
+[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Skill Icons](https://github.com/tandpfun/skill-icons)

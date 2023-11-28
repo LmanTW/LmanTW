@@ -11,6 +11,8 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 <image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker">
 
+# Active Projects
 
+* [LightPanel](https://github.com/Light-Panel/LightPanel) | A simple, highly customizable hosting panel.
 
 [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Skill Icons](https://github.com/tandpfun/skill-icons)

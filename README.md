@@ -11,14 +11,6 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 <image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker">
 
-# Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Light-Panel/LightPanel/pull/1) in [Light-Panel/LightPanel](https://github.com/Light-Panel/LightPanel)
-2. 💪 Opened PR [#1](https://github.com/Light-Panel/LightPanel/pull/1) in [Light-Panel/LightPanel](https://github.com/Light-Panel/LightPanel)
-3. 🔒 Closed issue [#25393](https://github.com/ppy/osu/issues/25393) in [ppy/osu](https://github.com/ppy/osu)
-4. 🗣 Commented on [#25393](https://github.com/ppy/osu/issues/25393#issuecomment-1803824988) in [ppy/osu](https://github.com/ppy/osu)
-5. ❗ Opened issue [#25393](https://github.com/ppy/osu/issues/25393) in [ppy/osu](https://github.com/ppy/osu)
-<!--END_SECTION:activity-->
 
 [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Skill Icons](https://github.com/tandpfun/skill-icons)

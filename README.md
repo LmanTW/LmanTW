@@ -9,7 +9,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 # Langauges / Tools I Know
 
-<image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker">
+<image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker,neovim">
 
 # Active Projects
 

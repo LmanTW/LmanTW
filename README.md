@@ -5,7 +5,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmantw&theme=dracula&layout=compact" height="150px"> <image src="https://github-readme-stats.vercel.app/api?username=lmantw&theme=dracula" height="150px">
 
 > [!NOTE]
-> Btw my English is not very good, so most of my project's guide is written in Chinese
+> Btw my English is not very good, so some of my project's guide is written in Chinese 
 
 # Langauges / Tools I Know
 

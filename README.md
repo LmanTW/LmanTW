@@ -11,6 +11,8 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 
 <image src="https://skillicons.dev/icons?i=nodejs,js,html,css,docker,neovim">
 
+( ~~I use Neovim btw~~
+
 # Active Projects
 
 * [Light-Framework](https://github.com/LmanTW/Light-Framework) | A lightweight web framework for building SPA.

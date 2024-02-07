@@ -20,7 +20,8 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 * [Boxes](https://github.com/LmanTW/Boxes) | A goofy programing language which is all about 📦.
 
 # Contact Me
-Discord: lmantw
-Email: lukeylin2009@gmail.com (I don't really use email that much)
+
+* Discord: lmantw
+* Email: lukeylin2009@gmail.com (I don't really use email that much)
 
 ( [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Skill Icons](https://github.com/tandpfun/skill-icons) )

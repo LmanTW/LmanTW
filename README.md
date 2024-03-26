@@ -11,10 +11,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to make [program](#act
 ( ~~I use Neovim btw~~
 
 # Active Projects
-
-* [Light-Framework](https://github.com/LmanTW/Light-Framework) | A lightweight web framework for building SPA.
-* [MineBot-Framework](https://github.com/Mine-Bot-Project/MineBot-Framework) | A Framework for building discord mining game bot.
-* [Boxes](https://github.com/LmanTW/Boxes) | A goofy programing language which is all about 📦.
+(Not doing that much open source recently, so not many projects are ~~alive~~)
 
 # Contact Me
 

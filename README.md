@@ -17,6 +17,5 @@ Hello there, I'm a home-school studen from Taiwan, I like to [program](#active-p
 # Contact Me
 
 * Discord: lmantw
-* Email: lukeylin2009@gmail.com (I don't really use email that much)
 
 ( [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Skill Icons](https://github.com/tandpfun/skill-icons) )

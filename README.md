@@ -6,7 +6,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to [program](#active-p
 
 # Langauges / Tools I Know
 
-<image src="https://skillicons.dev/icons?i=neovim,nodejs,js,html,css">
+<image src="https://skillicons.dev/icons?i=neovim,nodejs,js,ts,html,css">
 
 ( ~~I use Neovim btw~~
 

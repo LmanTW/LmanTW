@@ -12,6 +12,7 @@ Hello there, I'm a home-school studen from Taiwan, I like to [program](#active-p
 
 # Active Projects
 * [Light-Framework](https://github.com/LmanTW/Light-Framework) | A lightweight web framework for building SPA.
+* [Photon](https://github.com/LmanTW/Photon) | A Node.js library for building simple desktop app.
 * [Lightbery](https://github.com/Lightbery) | A platform for your favorite arts.
 
 # Contact Me

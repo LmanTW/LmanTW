@@ -11,6 +11,7 @@ Hello there, I'm a homeschool studen from Taiwan. I enjoy [programming](#active-
 ( ~~I use Neovim btw~~
 
 # Active Projects
+* [Binarion](https://github.com/LmanTW/Binarion/tree/main) | A binary format for storing JavaScript objects.
 * [HeatTrace](https://github.com/LmanTW/HeatTrace) | A thingy that renders your osu! replays into a heatmap.
 * [Light-Framework](https://github.com/LmanTW/Light-Framework) | A lightweight web framework for building SPA.
 * [Lightbery](https://github.com/Lightbery) | A platform for your favorite arts.

@@ -1,10 +1,10 @@
 # About Me
 
-Hello there, I'm a homeschool studen from Taiwan. I enjoy [programming](#active-projects) and making [music](https://soundcloud.com/lmusic_tw). And I prefer learn by doing, so I might approach a lot of things in a very [stupid](https://en.wikipedia.org/wiki/Stupidity) way.
+Hello there, I'm a homeschool studen from Taiwan. I enjoy [programming](#active-projects) and [music composing](https://soundcloud.com/lmusic_tw). And I prefer learn by doing, so I might approach a lot of things in a very [stupid](https://en.wikipedia.org/wiki/Stupidity) way.
 
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmantw&theme=dracula&layout=compact" height="150px"> <image src="https://github-readme-stats.vercel.app/api?username=lmantw&theme=dracula" height="150px">
 
-# Langauges / Tools I Know
+# Langauges / Tools I Work With
 
 <image src="https://skillicons.dev/icons?i=neovim,nodejs,js,ts,html,css">
 

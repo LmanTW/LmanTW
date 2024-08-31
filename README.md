@@ -11,8 +11,7 @@ Hello there, I'm a homeschool student from Taiwan. I enjoy [programming](#active
 ( ~~I use Neovim btw~~
 
 # Active Projects
-* [Binarion](https://github.com/LmanTW/Binarion/tree/main) | A binary format for storing JavaScript objects.
-* [Lightbery](https://github.com/Lightbery) | A platform for your favorite arts.
+* [themify.nvim](https://github.com/LmanTW/themify.nvim) | A colorscheme manager and switcher designed for Neovim.
 
 # Contact Me
 

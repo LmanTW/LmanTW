@@ -6,7 +6,7 @@ Hello there, I'm a homeschool student from Taiwan. I enjoy [programming](#active
 
 # Langauges / Tools I Work With
 
-<image src="https://skillicons.dev/icons?i=neovim,nodejs,js,ts,html,css">
+<image src="https://skillicons.dev/icons?i=neovim,nodejs,js,ts,html,css,lua">
 
 ( ~~I use Neovim btw~~
 

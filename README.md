@@ -12,7 +12,6 @@ Hello there, I'm a homeschooling student from Taiwan. I enjoy [programming](#act
 
 # Active Projects
 * [themify.nvim](https://github.com/LmanTW/themify.nvim) | A colorscheme manager and switcher designed for Neovim.
-* [canvaz](https://github.com/LmanTW/canvaz) | A simple, easy-to-use image processing library written entirely in Zig.
 
 # Contact Me
 

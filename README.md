@@ -1,6 +1,6 @@
 # About Me
 
-Hello there, I'm a homeschooling student from Taiwan. I enjoy [programming](#active-projects) and [music composing](https://soundcloud.com/lmusic_tw). And I prefer learn by doing, so I might approach a lot of things in a very [stupid](https://en.wikipedia.org/wiki/Stupidity) way.
+Hello there, I'm a homeschooling student from Taiwan, and I love coding all kind of cool stuff! I started my programming journey with [Scratch](https://scratch.mit.edu/users/LmanTW/) and then transitioned to real coding with JavaScript. Now, I'm looking forward to learning more about programming and creating awesome projects!
 
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmantw&theme=dracula&layout=compact" height="150px"> <image src="https://github-readme-stats.vercel.app/api?username=lmantw&theme=dracula" height="150px">
 

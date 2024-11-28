@@ -1,6 +1,6 @@
 # About Me
 
-Hello there, I'm a homeschooling student from Taiwan, and I love coding all kind of cool stuff! I started my programming journey with [Scratch](https://scratch.mit.edu/users/LmanTW/) and then transitioned to real coding with JavaScript. Now, I'm looking forward to learning more about programming and creating awesome projects!
+Hello there, I'm a homeschooling student from [Taiwan](https://en.wikipedia.org/wiki/Taiwan), and I love coding all kind of cool stuff! I started my programming journey with [Scratch](https://scratch.mit.edu/users/LmanTW/) and then transitioned to real coding with [JavaScript](https://en.wikipedia.org/wiki/JavaScript). Now, I'm looking forward to learning more about programming and creating awesome projects!
 
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmantw&theme=dracula&layout=compact" height="150px"> <image src="https://github-readme-stats.vercel.app/api?username=lmantw&theme=dracula" height="150px">
 

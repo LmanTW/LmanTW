@@ -11,7 +11,7 @@ Hello there, I'm a homeschooling student from [Taiwan](https://en.wikipedia.org/
 ( ~~I use Neovim btw~~
 
 # Active Projects
-* [themify.nvim](https://github.com/LmanTW/themify.nvim) | A colorscheme manager and switcher designed for Neovim.
+* [themify.nvim](https://github.com/LmanTW/themify.nvim) | A lightweight colorscheme manager and switcher.
 
 # Contact Me
 

@@ -6,7 +6,7 @@ Hello there, I'm a homeschooling student from [Taiwan](https://en.wikipedia.org/
 
 # Langauges / Tools I Work With
 
-<image src="https://skillicons.dev/icons?i=neovim,nodejs,js,ts,html,css,lua">
+<image src="https://skillicons.dev/icons?i=neovim,nodejs,js,ts,html,css,zig,lua">
 
 ( ~~I use Neovim btw~~
 

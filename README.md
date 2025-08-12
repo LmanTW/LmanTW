@@ -11,6 +11,7 @@ Hello there, I'm a homeschooling student from [Taiwan](https://en.wikipedia.org/
 ( ~~I use Neovim btw~~
 
 # Active Projects
+* [Waraja](https://github.com/LmanTW/Waraja) | A flexible quizing APP for learning Japanese. 
 * [themify.nvim](https://github.com/LmanTW/themify.nvim) | A lightweight colorscheme manager and switcher.
 
 # Contact Me
